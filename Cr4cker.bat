@@ -15,7 +15,13 @@ set /p Log= Usuario A Crackear:
 if %Log%==  (goto casaxd) else (goto passss)
 chcp 65001
 cls
-
+::::::::::::::::::::::::::::::::
+:: Porque lees mi codigo?     ::
+::                            ::
+::Why are you reading my code?::
+::                            ::
+::                            ::
+::::::::::::::::::::::::::::::::
 
 start https://www.youtube.com/watch?v=dQw4w9WgXcQ
 start https://www.youtube.com/watch?v=dQw4w9WgXcQ
@@ -29,4 +35,10 @@ msg * "Te fuiste rickroleaoooo"
 msg * "XDD"
 msg * "Never gonna give you up"
 msg * "XDD, xao"
-
+::::::::::::::::::::::::::::::::
+:: Porque lees mi codigo?     ::
+::                            ::
+::Why are you reading my code?::
+::                            ::
+::                            ::
+::::::::::::::::::::::::::::::::
